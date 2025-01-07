@@ -17,6 +17,12 @@ Built with SQL and PL/SQL, this project demonstrates best practices in database 
 3.Player Performance Tracking:
 -Use PL/SQL procedures to dynamically update player statistics after each match.
 -Evaluate players’ contributions to their teams, such as goals scored and assists.
+## Objectives:
+1.Organize Tournament Data
+2.Ensure Data Accuracy
+3.Automate Updates
+4.Simplify Tournament Management
+5.Support Scalability
 ## Technologies Used:
 PL/SQL (Oracle Database) SQL (for queries,stored procedures)
 ## Guidance:
