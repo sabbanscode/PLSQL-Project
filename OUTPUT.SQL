@@ -8,7 +8,7 @@ TEAMID	TEAMNAME	TOTALPOINTS
 --Players
 PLAYERID	PLAYERNAME	TEAMID	GOALSSCORED	ASSISTS	MATCHESPLAYED
 1	        Player 1	  1	      0	          0	      0
-2 	      Player 2	  1	      0	          0	      0
+2 	        Player 2	  1	      0	          0	      0
 3	        Player 3	  2	      0	          0	      0
 4	        Player 4	  3	      0	          0	      0
 
