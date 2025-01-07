@@ -22,6 +22,6 @@ MATCHID	TEAM1ID	TEAM2ID	TEAM1SCORE	TEAM2SCORE	MATCHDATE
 --Pointstable
 TEAMID	MATCHESPLAYED	WINS	DRAWS	LOSSES	POINTS
 1	      0	            0	    0	    0	      0
-2	      0	            0	    0	    0 	    0
+2	      0	            0	    0	    0 	      0
 3	      0	            0	    0	    0	      0
 4	      0	            0	    0	    0	      0
